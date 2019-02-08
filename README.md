@@ -1,2 +1,2 @@
-# angularjs-tutorial
+# AngularJS Tutorial
 AngularJS Tutorial For Beginner
